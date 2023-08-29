@@ -1,0 +1,8 @@
+git clone <repo>
+git checkout
+git status
+git add .
+git add readme
+git commit -m "Initial commit"
+git push origin main
+git pull
